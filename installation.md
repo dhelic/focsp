@@ -73,7 +73,7 @@ Open a terminal (To open a terminal, press <kbd>&#8984;</kbd>+<kbd>Space</kbd> a
 
 If an error is displayed like `command not found: python`, try `python3 --version` instead.
 ## Debian
-If you are using a Linux-distribution based on Debian (like Ubuntu), type the following lines into a terminal (The keyboard sequence to open a terminal in Linux usually is <kbd>Ctr</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd>):
+If you are using a Linux-distribution based on Debian (like Ubuntu), type the following lines into a terminal (The keyboard sequence to open a terminal in Linux usually is <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd>):
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install software-properties-common -y
