@@ -21,6 +21,7 @@ Download the installer here:
 ![](images/pViS2Ix.png)
 
 
+
 ### Verify Installation
 To check if you successfully installed Python open up a new Terminal. Press the Windows key<kbd>![](images/T0oPO.png)</kbd>, type `cmd` and hit enter. 
 
