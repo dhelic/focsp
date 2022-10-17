@@ -18,7 +18,6 @@ Download the installer here:
 ![](images/Osksm4e.png)
 
 3. To finish the installation, click "Close".
-
 ![](images/pViS2Ix.png)
 
 
