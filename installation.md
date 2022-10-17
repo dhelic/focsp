@@ -91,7 +91,7 @@ python3.10 --version
 
 In the lecture and homeworks we use Jupyter Lab. To install it, open a terminal and enter ``pip install jupyterlab`` (Hint for macOS/Linux users: if this doesn't work, try ``pip3 install jupyterlab``. 
 
-![](https://i.imgur.com/yOIycMj.png)
+![](images/yOIycMj.png)
 
 To open Jupyter Lab, type ``jupyter lab`` in your terminal. A new browser window pops up with jupyter lab running in the localhost. Don't close your terminal while working in jupyter lab. ([Here](https://jupyterlab.readthedocs.io/en/latest/user/interface.html) is the documentation of the Jupyter Lab Interface and how to use it)
 
