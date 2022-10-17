@@ -20,7 +20,6 @@ Download the installer here:
 
 
 3. To finish the installation, click "Close".
-
 ![](images/pViS2Ix.png)
 
 
