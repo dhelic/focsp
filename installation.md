@@ -104,5 +104,6 @@ Some common IDEs:
 # Success?
 
 Was your python installation successful? 🐍
+
 If you encountered any problems, please post your problems in the Moodle forum.
 
