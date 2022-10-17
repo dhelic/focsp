@@ -114,7 +114,7 @@ if not some_condition:
 
 
 ### Global Variables
-Avoid global Variables. Since we only import your functions when testing your submission, code that relies on global variables will not work. Hence, all of your functions should be self-contained, i.e. don't rely on variables outside the function.
+Avoid global variables. Since we only import your functions when testing your submission, code that relies on global variables will not work. Hence, all of your functions should be self-contained, i.e. don't rely on variables outside the function.
 
 ```python=3.10
 # No
