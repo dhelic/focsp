@@ -33,12 +33,12 @@ Next, enter ``python --version`` in the terminal and hit enter.
 You should see the currently installed version of Python.
 
 ## macOS
-You can install python using **either** the installer package <span style="color:red">**OR**</span>; homebrew.
+You can install python using **either** the installer package <span style="color:red">**OR**</span> homebrew.
 #### Using the installer package (.pkg)
 Download the installer here
 * [macOS 11](https://www.python.org/ftp/python/3.10.7/python-3.10.7-macos11.pkg)
 
-1. Open the downloaded installer package, click on &#34;Continue&#34; and accept the licence
+1. Open the downloaded installer package, click on "Continue" and accept the licence
 ![](images/N3Jl0Xt.png)
 
 2. Click on "Install"
@@ -52,27 +52,27 @@ Download the installer here
 #### Using homebrew
 [Homebrew](https://brew.sh) is a free software package manager that can be installed by pasting the following line into the terminal (To open a terminal, press <kbd>#8984</kbd>+<kbd>Space</kbd>, type `Terminal` and hit enter)
 
->``/bin/bash -c &#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&#34;``
+>``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``
 
 You might need to install Xcode command line tools first, by typing the following line into your terminal
 >``xcode-select --install``
 
 You can install python 3.10 by typing
->``brew update &amp;&amp; brew install python@3.10``
+>``brew update && brew install python@3.10``
 
 **Optional**: You might want to add symbolik links like python->python3 and pip->pip3 to your Path by typing
 
 
 > ``echo -n 'export PATH=/opt/homebrew/opt/python@3.10/libexec/bin:$PATH' >> ~/.zshrc``
 ### Verify installation
-Open a terminal (To open a terminal, press &lt;kbd&gt;&amp;#8984;&lt;/kbd&gt;+&lt;kbd&gt;Space&lt;/kbd&gt; and type `Terminal`), type `python --version` and hit enter.
+Open a terminal (To open a terminal, press <kbd>&#8984</kbd>+<kbd>Space</kbd> and type `Terminal`), type `python --version` and hit enter.
 ![](images/OvUU05Y.png)
 
 If an error is displayed like `command not found: python`, try `python3 --version` instead.
 ## Debian
 If you are using a Linux-distribution based on Debian (like Ubuntu), type the following lines into a terminal (The keyboard sequence to open a terminal in Linux usually is <kbd>Ctr</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd>):
 ```bash
-sudo apt update &amp;&amp; sudo apt upgrade -y
+sudo apt update && sudo apt upgrade -y
 sudo apt install software-properties-common -y
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.10
