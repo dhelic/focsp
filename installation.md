@@ -1,4 +1,4 @@
-# Installation of Python (WS22)
+# Installation of Python
 
 In this lecture we use Python 3.10 as our programming language. This guide follows the steps for installing python 3.10 for Windows, macOS and Debian Linux. 
 
