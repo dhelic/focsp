@@ -14,11 +14,13 @@ Download the installer here:
 **Make sure to check the "Add Python 3.10 to PATH" mark!**
 ![](images/qfydlwD.png)
 
+
 2. Click on "Install Now". This may take a while.
 ![](images/Osksm4e.png)
 
 
 3. To finish the installation, click "Close".
+
 ![](images/pViS2Ix.png)
 
 
