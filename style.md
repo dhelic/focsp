@@ -1,4 +1,4 @@
-# Informatics 1 Style Guide
+# FoCSP Style Guide
 
 ## Background
 Two of the most important qualities of good code are readability and understandability. Thus, in addition to the functionality of your submitted code, the adherance to certain style rules and general cleanliness of code will be graded. In each assignment, a given amount of points is allocated for these matters. For each violation, a certain amount of points will be detucted from a maximum of the allocated points. This means, if 5 points are allocated for code quality, you can't lose more than 5 points due to these violations.
@@ -72,18 +72,14 @@ Make sure to include and fill out the comment header in every source file!
 ```
 ################################################################################
 # Author:      Firstname Lastname
-# MatNr:       01234567
+# StudID:      01234567
 # File:        assignmentX.py / assignmentX.ipynb
 # Description: ... short description of the file ...
-# Comments:    ... comments for the tutors ...
+# Comments:    ... comments for the teacher ...
 #              ... e.g. things that you know don't work ...
 #              ... can be multiline ...
 ################################################################################
 ```
-
-### Filenames (up to 100% of the allocated points for style)
-Submit your code exactly as specified on the assignment page or task description. Enabling file extensions in your file explorer will faciliate naming. If a python script (.py) is asked, don't submit a jupyter notebook (.ipynb) - or the other way around). **Re-naming a .ipynb-file to a .py-script does not work!**
-
 
 
 ## Common Style Flaws
