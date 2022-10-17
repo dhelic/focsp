@@ -50,7 +50,7 @@ Download the installer here
 
 
 #### Using homebrew
-[Homebrew](https://brew.sh) is a free software package manager that can be installed by pasting the following line into the terminal (To open a terminal, press <kbd>#8984</kbd>+<kbd>Space</kbd>, type `Terminal` and hit enter)
+[Homebrew](https://brew.sh) is a free software package manager that can be installed by pasting the following line into the terminal (To open a terminal, press <kbd>&#8984;</kbd>+<kbd>Space</kbd>, type `Terminal` and hit enter)
 
 >``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``
 
@@ -65,7 +65,7 @@ You can install python 3.10 by typing
 
 > ``echo -n 'export PATH=/opt/homebrew/opt/python@3.10/libexec/bin:$PATH' >> ~/.zshrc``
 ### Verify installation
-Open a terminal (To open a terminal, press <kbd>&amp;#8984</kbd>+<kbd>Space</kbd> and type `Terminal`), type `python --version` and hit enter.
+Open a terminal (To open a terminal, press <kbd>&#8984;</kbd>+<kbd>Space</kbd> and type `Terminal`), type `python --version` and hit enter.
 ![](images/OvUU05Y.png)
 
 If an error is displayed like `command not found: python`, try `python3 --version` instead.
